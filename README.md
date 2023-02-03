@@ -5,8 +5,8 @@
   
   <h3>✨Michail Zyuzin✨</h3>
   <img src="https://img.shields.io/github/followers/Zyuzin-package?style=for-the-badge"/>
-  <img src="https://img.shields.io/tokei/lines/github/Zyuzin-package/Online-Store?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/directory-file-count/Zyuzin-package/Online-Store?style=for-the-badge"/>
+  <img src="https://img.shields.io/tokei/lines/github/Zyuzin-package/Online-Store"/>
+  <img src="https://img.shields.io/github/directory-file-count/Zyuzin-package/Online-Store"/>
 </div>
 
 ---
