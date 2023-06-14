@@ -42,9 +42,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="jira" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuzin-package&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuzin-package&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyuzin-package&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyuzin-package&show_icons=true&theme=transparent) -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zyuzin-package)](https://git.io/streak-stats)
 
