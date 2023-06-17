@@ -43,8 +43,8 @@
 
 ---
 
-### 📄 My commercial projects :
-1) https://tartar-meat.ru/
+### 📄 My web commercial projects :
+* https://tartar-meat.ru/
 
 ### :fire: My Stats :
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuzin-package&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
