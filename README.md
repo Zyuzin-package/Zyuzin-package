@@ -46,7 +46,6 @@
 
 ### 📄 My web commercial projects :
 * https://tartar-meat.ru/
-* 
 ### 🚢 My Docker-hub :
 https://hub.docker.com/u/koro4ka
 
