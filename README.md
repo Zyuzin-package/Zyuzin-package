@@ -50,9 +50,9 @@
 https://hub.docker.com/u/koro4ka
 
 ### :fire: My Stats :
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuzin-package&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuzin-package&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyuzin-package&show_icons=true&theme=transparent) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyuzin-package&show_icons=true&theme=transparent)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zyuzin-package)](https://git.io/streak-stats)
 
