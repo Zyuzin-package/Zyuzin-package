@@ -16,7 +16,7 @@
 *   I received a bachelor's degree from Samara State Technical University in "Software engineering"	:school:
 *   My main focus is java backend, but i also like frontend development :briefcase:
 *	In my free time I like to program, but I don't refuse it during my studies either :computer:
-*	At the moment I'm applying for a master's degree am actively looking for a job :steam_locomotive:
+*	At the moment I am studying for a master's degree and working in a company "O-code" :steam_locomotive:
 
 ### :hammer_and_wrench: My Main Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
